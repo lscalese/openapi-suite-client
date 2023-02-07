@@ -5,9 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat&logo=AdGuard)](LICENSE)
 # openapi-suite-client
 
-This tiny an http client for [openapi-suite](https://openexchange.intersystems.com/package/OpenAPI-Suite).  
+This is a tiny http client for [openapi-suite](https://openexchange.intersystems.com/package/OpenAPI-Suite).  
 
-It's useful if you want to generate code from a remote openapi-suite installation.  
+It's useful if you want to generate code from a remote openapi-suite installation and avoid install all code generation tools on your local instance.  
 
 ## Installation zpm
 
