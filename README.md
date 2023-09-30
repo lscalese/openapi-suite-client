@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat&logo=AdGuard)](LICENSE)
 # openapi-suite-client
 
+**Important** : **To make maintenance easier, this package has been merged with  [openapi-suite](https://openexchange.intersystems.com/package/OpenAPI-Suite) ( [Link to GitHub repository](https://github.com/lscalese/openapi-suite) ).  Consider this package deprecated and replaced by openapi-suite (classes have kept the same name)**
+
 This is a tiny http client for [openapi-suite](https://openexchange.intersystems.com/package/OpenAPI-Suite).  
 
 It's useful if you want to generate code from a remote openapi-suite installation and avoid install all code generation tools on your local instance.  
